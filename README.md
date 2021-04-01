@@ -12,7 +12,7 @@ Overall , the project "Railway Reservation System" , will have following screens
 8. Cancel Ticket
 9. Cancel Train
 
-passenger can use all the above funtionality.
+This software is handled by - who is on reservation window at railway station.
 
 Use "Railway Reservation system.exe" directly run the app
 
