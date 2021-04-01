@@ -14,5 +14,7 @@ Overall , the project "Railway Reservation System" , will have following screens
 
 passenger can use all the above funtionality.
 
+Use "RailwayReservationsystem.exe" directly run the app
+
 
 
